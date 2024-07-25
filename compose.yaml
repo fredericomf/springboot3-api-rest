@@ -11,7 +11,7 @@ services:
     # - ./database_initialization.sql:/data/application/database_initialization.sql
     restart: always
     environment:
-      MYSQL_DATABASE: 'lojavollmed_api'
+      MYSQL_DATABASE: 'vollmed_api'
       MYSQL_USER: 'test'
       MYSQL_PASSWORD: 'test'
       MYSQL_ROOT_PASSWORD: 'root'

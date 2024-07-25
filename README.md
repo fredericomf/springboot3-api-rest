@@ -12,3 +12,5 @@ Repositório utilizado na aula de Spring Boot 3 - Desenvolva uma API Rest
 ```
 docker compose up
 ```
+
+* Para adicionar dependências no pom.xml posso utilizar o: https://start.spring.io/
