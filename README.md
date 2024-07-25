@@ -14,3 +14,5 @@ docker compose up
 ```
 
 * Para adicionar dependências no pom.xml posso utilizar o: https://start.spring.io/
+
+* O PUT é para atualizações integrais em um recurso, o PATCH é para atualizações parciais. Há uma linha tênue que separa os dois, por isso, no curso, os instrutores optaram por utilizar o PUT.
